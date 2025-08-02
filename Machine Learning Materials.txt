@@ -1,0 +1,15 @@
+Machine Learning Materials - Google Drive Link
+
+Access all the learning materials and tools for the Machine Learning Track:
+
+https://drive.google.com/drive/folders/1HGZV2iwmd1VKCRphikFD2YTQl9RXHbhG?usp=drive_link
+
+This folder contains:
+- 1- Introduction to Python
+- 2- NumPy Hands-On Introduction  
+- 3- Pandas Hands-On Introduction
+- 4- Your First ML Model
+- 5- Introduction to Deep Learning
+- 6- Fraud Detection Use Case
+
+Download and use these materials to enhance your learning experience! 
