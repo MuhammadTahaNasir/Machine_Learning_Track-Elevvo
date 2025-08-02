@@ -14,7 +14,6 @@ Machine Learning Track - Elevvo/
 │   ├── Task1_Student_Score_Prediction.ipynb
 │   ├── Task2_Customer_Segmentation.ipynb
 │   ├── Task3_Forest_Cover_Classification.ipynb
-│   ├── Task3_Forest_Cover_Classification_Fixed.ipynb
 │   ├── Task4_Loan_Approval_Prediction.ipynb
 │   ├── Task5_Movie_Recommendation_System.ipynb
 │   ├── Task6_Music_Genre_Classification.ipynb
